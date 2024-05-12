@@ -1,0 +1,3 @@
+/home/xeno/Documents/RTOS/List5/Task2/build/CMakeFiles/rebuild_cache.dir
+/home/xeno/Documents/RTOS/List5/Task2/build/CMakeFiles/task2.dir
+/home/xeno/Documents/RTOS/List5/Task2/build/CMakeFiles/edit_cache.dir

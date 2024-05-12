@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xeno/Documents/RTOS/List5/Task1/build",
+  "command": "/usr/bin/gcc  -I/usr/include/xenomai/include/alchemy -I/usr/include/xenomai/cobalt -I/usr/include/xenomai  -g   -o CMakeFiles/task1.dir/task1.c.o   -c /home/xeno/Documents/RTOS/List5/Task1/task1.c",
+  "file": "/home/xeno/Documents/RTOS/List5/Task1/task1.c"
+}
+]
